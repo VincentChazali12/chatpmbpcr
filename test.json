@@ -1,0 +1,378 @@
+{"intents": [
+ {
+  "pert": ["Apa saja jalur masuk yang ada di pcr?","jalur masuk di pcr ada apa aja?","apa saja jalur masuk di pcr?","jalur pendaftaran ke pcr ada apa aja?","apa aja jalur pendaftaran ke pcr?","jalur pendaftaran di pcr apa?","apa jalur pendaftaran di pcr?"],
+  "Jawaban": "Jalur pendaftaran yang ada di pcr adalah PSUD, UMPCR,\nJalur Mandiri, Beasiswa prestasi yayasan politeknik \nchevron riau, beasiswa kerja sama dengan pemerintah\ndaerah provinsi riau, beasiswa kerja sama dengan \npemerintah daerah rokan hilir, beasiswa kerja sama \ndengan pemerintah kota dumai.",
+  "Label": "jalurmasuk"
+ },
+ {
+  "pert": ["Ada berapa jalur masuk yang ada di pcr?","ada berapa jalur yang ada di pcr?","berapa jumlah jalur masuk yang ada di pcr?","jalur masuk yang ada di pcr ada berapa?","jalur ke pcr ada berapa?","kira kira ada berapa jalur masuk ya ke pcr?","di pcr jalur masuknya ada berapa ya?","pcr ada berapa jalur pendaftaran?"],
+  "Jawaban": "Di Politeknik Caltex Riau terdapat 7 jalur pendaftaran",
+  "Label": "jumlahjalurmasuk"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk melalui jalur PSUD?","daftar jalur psud gimana caranya?","cara daftar jalur psud bagaimana?","cara daftar jalur psud gimana?","jalur psud gimana cara daftarnya?","psud daftarnya kayak mana?","bagaimana daftar jalur psud?","jalur psud kayak mana daftarnya?"],
+  "Jawaban": "Cara mendaftar jalur PSUD adalah pertama dengan pergi  ke website pmb.pcr.ac.id, kemudian lakukan login setelah itu klik Daftar sekarang, kemudian pilih jalur PSUD kemudian masukkan nilai rapor kelas 1 dan 2 SMA\/SMK dan pilih jurusan yang diinginkan , kemudian lengkapi  data diri dan upload berkas syarat PSUD setelah itu tunggu hasil seleksi PSUD yang akan di umumkan PCR, Setelah  hasil keluar dari diumumkan oleh PCR, lakukan pembayaran dan registrasi ulang ke PCR",
+  "Label": "caradaftarpsud"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk melalui jalur UMPCR?","daftar jalur umpcr gimana caranya?","cara daftar jalur umpcr bagaimana?","cara daftar jalur umpcr gimana?","jalur umpcr gimana cara daftarnya?","umpcr daftarnya kayak mana?","bagaimana daftar jalur umpcr?","jalur umpcr kayak mana daftarnya?"],
+  "Jawaban": "Cara mendaftar jalur UMPCR adalah dengan mengakses \nwebsite pmb.pcr.ac.id kemudian lakukan login, setelah login\npilih jalur masuk yang ada di sebelah data diri, kemudian pilih\njalur UMPCR dan klik daftar sekarang",
+  "Label": "caradaftarumpcr"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk melalui jalur Mandiri?","daftar jalur mandiri gimana caranya?","cara daftar jalur mandiri bagaimana?","cara daftar jalur mandiri gimana?","jalur mandiri gimana cara daftarnya?","mandiri daftarnya kayak mana?","bagaimana daftar mandiri?","jalur mandiri kayak mana daftarnya?"],
+  "Jawaban": "Untuk pendaftaran jalur mandiri dilakukan dengan mendatangi \nPoliteknik Caltex Riau secara langsung , atau mendatangi gerai \nPoliteknik Caltex Riau",
+  "Label": "caradaftarmandiri"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk melalui jalur Beasiswa prestasi yayasan politeknik chevron riau?","daftar jalur Beasiswa prestasi yayasan politeknik chevron riau gimana caranya?","cara daftar jalur Beasiswa prestasi yayasan politeknik chevron riau bagaimana?","cara daftar jalur Beasiswa prestasi yayasan politeknik chevron riau gimana?","jalur Beasiswa prestasi yayasan politeknik chevron riau gimana cara daftarnya?","Beasiswa prestasi yayasan politeknik chevron riau daftarnya kayak mana?","bagaimana daftar jalur Beasiswa prestasi yayasan politeknik chevron riau ?","jalur Beasiswa prestasi yayasan politeknik chevron riau kayak mana daftarnya?","daftar jalur ypcr gimana caranya?","cara daftar ypcr bagaimana?","cara daftar jalur ypcr gimana?","jalur ypcr gimana cara daftarnya?","ypcr daftarnya kayak mana?","bagaimana daftar ypcr umpcr?","jalur ypcr kayak mana daftarnya?"],
+  "Jawaban": "Cara mendaftar jalur Beasiswa YPCR adalah dengan mengakses \nwebsite pmb.pcr.ac.id kemudian lakukan login, setelah login\npilih jalur masuk yang ada di sebelah data diri, kemudian pilih\njalur YPCR dan klik daftar sekarang",
+  "Label": "caradaftarypcr"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk jalur Beasiswa kerja sama dengan pemerintah daerah provinsi riau?","daftar jalur Beasiswa kerja sama dengan pemerintah daerah provinsi riau gimana caranya?","cara daftar Beasiswa kerja sama dengan pemerintah daerah provinsi riau  bagaimana?","cara daftar jalur Beasiswa kerja sama dengan pemerintah daerah provinsi riau gimana?","jalur Beasiswa kerja sama dengan pemerintah daerah provinsi riau gimana cara daftarnya?","Beasiswa kerja sama dengan pemerintah daerah provinsi riau daftarnya kayak mana?","bagaimana daftarBeasiswa kerja sama dengan pemerintah daerah provinsi riau?","jalur Beasiswa kerja sama dengan pemerintah daerah provinsi riau kayak mana daftarnya?","daftar jalur Beasiswa kerja sama dengan pemrov riau gimana caranya?","cara daftar Beasiswa kerja sama dengan pemrov riau bagaimana?","cara daftar jalur Beasiswa kerja sama dengan pemrov riau gimana?","jalur Beasiswa kerja sama dengan pemrov riau gimana cara daftarnya?","Beasiswa kerja sama dengan pemrov riau daftarnya kayak mana?","bagaimana daftarBeasiswa kerja sama dengan pemrov riau ?","jalur Beasiswa kerja sama dengan pemrov riau kayak mana daftarnya?"],
+  "Jawaban": "cara mendaftar jalur Beasiswa kerja sama dengan pemerintah \ndaerah Riau adalah dengan mengakses website pmb.pcr.ac.id \nkemudian lakukan login, setelah itu pilih jalur masuk yang ada \ndi sebelah data diri, kemudian pilih jalur Bhakti negeri dan klik\ndaftar sekarang",
+  "Label": "caradaftarpemprov"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk jalur Beasiswa kerja \nsama dengan pemerintah daerah rokan hilir?","daftar jalur Beasiswa kerja sama dengan pemerintah daerah rokan hilir gimana caranya?","cara daftar Beasiswa kerja sama dengan pemerintah daerah rokan hilir bagaimana?","cara daftar jalur Beasiswa kerja sama dengan pemerintah daerah rokan hilir gimana?","jalur Beasiswa kerja sama dengan pemerintah daerah rokan hilir gimana cara daftarnya?","Beasiswa kerja sama dengan pemerintah daerah rokan hilir daftarnya kayak mana?","bagaimana daftarBeasiswa kerja sama dengan pemerintah daerah rokan hilir umpcr?","jalur Beasiswa kerja sama dengan pemerintah daerah rokan hilir kayak mana daftarnya?"],
+  "Jawaban": "cara mendaftar jalur Beasiswa kerja sama dengan pemerintah \ndaerah Rokan Hilir adalah dengan mengakses website pmb.pcr.ac.id \nkemudian lakukan login, setelah itu pilih jalur masuk yang ada \ndi sebelah data diri, kemudian pilih jalur Beasiswa Rokan Hilir dan klik\ndaftar sekarang",
+  "Label": "caradaftarrokanhilir"
+ },
+ {
+  "pert": ["Bagaimana cara daftar masuk jalur beasiswa kerja \nsama dengan pemerintah kota Dumai?","daftar jalur Beasiswa kerja sama dengan pemerintah kota Dumai gimana caranya?","cara daftar Beasiswa kerja sama dengan pemerintah kota Dumai bagaimana?","cara daftar jalur Beasiswa kerja sama dengan pemerintah kota Dumai gimana?","jalur Beasiswa kerja sama dengan pemerintah kota Dumai gimana cara daftarnya?","Beasiswa kerja sama dengan pemerintah kota Dumai daftarnya kayak mana?","bagaimana daftarBeasiswa kerja sama dengan pemerintah kota Dumai?","jalur Beasiswa kerja sama dengan pemerintah kota Dumai kayak mana daftarnya?"],
+  "Jawaban": "cara mendaftar jalur Beasiswa kerja sama dengan pemerintah \nkota Dumai adalah dengan mengakses website pmb.pcr.ac.id \nkemudian lakukan login, setelah itu pilih jalur masuk yang ada \ndi sebelah data diri, kemudian pilih jalur Beasiswa Kota Dumai dan klik\ndaftar sekarang",
+  "Label": "caradaftarkotadumai"
+ },
+ {
+  "pert": ["Berapa jumlah uang masuk dari masing masing \njalur pendaftaran?","uang pendaftaran masing masing jalur berapa?","berapa jumlah uang pendaftaran masing masing jalur?","uang masuk dari masing masing pendaftaran berapa jumlahnya?","harga uang pendaftaran masing masing jalur berapa?","berapa harga uang pendaftaran masing masing jalur?"],
+  "Jawaban": "Untuk uang pendaftaran UMPCR dan Mandiri sebesar Rp. 250000, sedangkan untuk \njalur masuk selain itu tidak memakan biaya uang pendaftaran\n",
+  "Label": "uangmasukjalur"
+ },
+ {
+  "pert": ["Berapa jumlah uang spp di pcr?","spp di pcr berapa?","berapa biaya spp di pcr?","jumlah uang spp di pcr berapa?"],
+  "Jawaban": "Untuk SPP di PCR sebesar Rp.6.500.000 ",
+  "Label": "uangspp"
+ },
+ {
+  "pert": ["apakah biaya masuk bisa dicicil?","biaya masuk pcr bisa dicicil ?","apakah bisa biaya masuk di pcr dicicil?","kalau biaya masuk di cicil bisa ga?","bisa tidak kalau biaya masuk pcr di cicil?","di pcr biaya masuk bisa dicicil tidak?","apakah biaya masuk harus dibayar lunas langsung?","biaya masuk apakah harus langsung dilunasin?","biaya masuk harus langsung di lunasin atau bisa diciciil?","di pcr biaya masuk harus langsung lunas?","apakah biaya uang masuk harus lunas saat daftar \nulang atau bisa dicicil?"],
+  "Jawaban": "saat daftar ulang bisa dikomunikasikan dengan bagian keuangan",
+  "Label": "cicilbiayamasuk"
+ },
+ {
+  "pert": ["Apakah di pcr ada beasiswa?","di pcr ada beasiswa?","di pcr ada sediakan beasiswa?","di pcr ada beasiswa ga?","di pcr apakah ada beasiswa?","ada beasiswa tidak di pcr?","ada beasiswa ga di pcr?","beasiswa di pcr ada tidak?"],
+  "Jawaban": "Ada, PCR menyediakan beberapa beasiswa",
+  "Label": "adabeasiswa"
+ },
+ {
+  "pert": ["Apa saja beasiswa yang ditawarkan oleh pcr ?","beasiswa yang di tawarkan apa aja?","apa aja beasiswa yang ada di pcr?","di pcr apa saja beasiswanya?","beasiswa yang ada di pcr apa aja?","beasiswanya apa aja?"],
+  "Jawaban": "Beasiswa yang ditawarkan oleh pcr adalah beasiswa \nprestasi pemprov riau, beasiswa tahfiz pemprov riau, \nbeasiswa bidikmisi pemprov riau",
+  "Label": "beasiswa"
+ },
+ {
+  "pert": ["apakah ada potongan biaya masuk jika\ncalon mahasiswa punya prestasi?","kalau sebelumnya ada prestasi apakah ada potongan biaya masuk?","ada potongan biaya masuk tidak kalau misalnya ada prestasi?","jika sebelumnya berprestasi apakah biaya masuk bisa dapat potongan?","biaya masuk dapat potongan ga kalau misalnya ada prestasi sebelumnya?","ada tidak potongan biaya masuk untuk calon mahasiswa yang berprestasi sebelumnya?"],
+  "Jawaban": "Ada, potongan biaya berupa voucher",
+  "Label": "potonganbiaya"
+ },
+ {
+  "pert": ["ada berapa jurusan yang ada di pcr?","berapa jurusan yang ada di pcr?","di pcr ada berapa jurusan?","berapa banyak jurusan di pcr?","berapa jurusan di pcr?","jurusan di pcr berapa banyak?","jumlah jurusan di pcr ada berapa?"],
+  "Jawaban": "Ada 3 jurusan yang ada di pcr",
+  "Label": "jumlahjurusan"
+ },
+ {
+  "pert": ["apa saja jurusan yang ada di pcr?","jurusan di pcr apa aja?","jurusan di pcr ada apa saja?","di pcr ada jurusan apa saja?","jurusan di pcr apa  ?","apa jurusan yang ada di pcr?"],
+  "Jawaban": "Jurusan yang ada di pcr ada Jurusan Teknologi Informasi, \nJurusan Administrasi Bisnis, Jurusan Teknologi Industri",
+  "Label": "jurusanpcr"
+ },
+ {
+  "pert": ["ada berapa program studi yang ada di pcr?","berapa jumlah program studi yang ada di pcr?","ada berapa prodi yang ada di pcr?","di pcr ada berapa prodi?","berapa prodi yang ada di pcr?","di pcr berapa prodi?","prodi di pcr berapa?"],
+  "Jawaban": "di PCR terdapat 10 program studi",
+  "Label": "jumlahprodi"
+ },
+ {
+  "pert": ["apa saja program studi yang ada di pcr?","prodi di pcr apa aja?","prodi di pcr ada apa saja?","di pcr ada prodi apa saja?","prodi di pcr apa  ?","apa prodi yang ada di pcr?","program studi  di pcr apa aja?","program studi  di pcr ada apa saja?","di pcr ada program studi  apa saja?","program studi  di pcr apa  ?","apa program studi  yang ada di pcr?"],
+  "Jawaban": "Program studi yang ada di PCR adalah Sistem Informasi, \nTeknik Informatika, Teknik Rekayasa Komputer, Akuntansi  Perpajakan, Teknik Mesin, Teknik Listrik, Teknik Rekayasa  mekatronika, Teknik Elektronika Komunikasi, Teknologi Rekayasa Sistem Elektronika, Teknologi Rekayasa Jaringan Telekomunikasi",
+  "Label": "prodipcr"
+ },
+ {
+  "pert": ["kalau misalnya D4, untuk lanjut ke S2 apakah harus ada persetaraan atau bisa langsung?","kalau misalnya D4 mau lanjut S2 apakah harus penyetaraan atau bisa langsung?","di pcr lulusannya kan D4 kalau misalnya mau lanjut S2 apakah harus penyetaraan dulu?","apakah harus dilakukan penyetaraan dulu dari D4 ke S1 untuk bisa lanjut ke S2?","D4 bisa langsung lanjut ke S2 atau harus setara jadi S1 dulu?","apakah lulusan D4 bisa langsung lanjut S2?","lulusan D4 bisa lanjut langsung ke S2 atau tidak?","lulusan D4 apakah harus disetarakan ke S1 baru bisa lanjut S2 atau tidak?"],
+  "Jawaban": "D4 sudah setara dengan S1, jadi bisa langsung lanjut ke S2",
+  "Label": "d4kemagister"
+ },
+ {
+  "pert": ["Kenapa namanya D4 dan bukan S1?","namanya kenapa D4 padahal sudah setara S1?","namanya kok D4 padahal sama dengan S1?","kok D4 bukannya S1?","kenapa tidak S1 saja daripada D4?","kenapa lulusannya D4 dan bukan S1?","lulusannya kok D4 dan bukan S1?","Kalau D4 sarjana kenapa D4 namanya?","D4 kan sarjana tapi kenapa D4 namanya dan bukan S1?","kalau D4 sarjana juga kenapa namanya D4?","kenapa kalau Sarjana namanya bukan S1 tapi D4?","kenapa di pcr itu D4 padahal katanya sarjana?","setelah lulus D4 di pcr harus lanjut di pcr atau bisa ke kampus lain untuk S2?"],
+  "Jawaban": "karena PCR termasuk ke dalam pendidikan vokasi ",
+  "Label": "namad4"
+ },
+ {
+  "pert": ["apa gelar yang didapatkan di D4?","gelar dari D4 apa?","apa gelar yang di dapat dari program D4?","program D4 waktu lulus gelarnya apa?","D4 apa gelarnya?","Kalau D4 gelar yang didapat apa?","kalau programnya D4 gelar yang didapat apa?"],
+  "Jawaban": "Untuk Jurusan Teknologi Industri gelar yang di dapat adalah S.Tr.T., untuk Jurusan teknologi Informasi gelar yang didapat adalah S.Tr.Kom., Untuk Jurusan Administrasi Perpajakan gelar yang didapat adalah S.Tr.Ak",
+  "Label": "gelard4"
+ },
+ {
+  "pert": ["setelah lulus dari pcr, apakah harus lanjut S2 di pcr atau ke kampus lain?","setelah lulus D4 di pcr harus lanjut di pcr atau bisa ke kampus lain untuk S2?","untuk D4 lulusan pcr mau lanjut ke S2 apakah harus di pcr atau bisa di kampus lain?","untuk S2 harus tetap di pcr atau bisa ke kampus lain setelah lulus D4 di pcr?","habis lulus di pcr kalau mau lanjut harus di pcr atau bisa ke kampus lain?","kalau mau lanjut S2 setelah lulus dari pcr apakah harus S2 di pcr atau bisa di kampus lain?","setelah lulus dari pcr untuk melanjutkan studi S2 apakah harus di pcr atau bisa di kampus lain?"],
+  "Jawaban": "Setelah lulus dari PCR mahasiswa tidak diwajinkan untuk S2 di PCR, \nkembali lagi ke pribadi mahasiswa apakah ingin melanjutkan di PCR \natau ke kampus lain",
+  "Label": "lanjuts2"
+ },
+ {
+  "pert": ["Bagaimana sistem perkuliahan di pcr?","sistem kuliah di pcr gimana?","sistem perkuliahan di pcr bagaimana?","di pcr kuliahnya bagaimana?","di pcr kulihanya gimana?","di pcr sistem kuliahnya pakai krs?","perkuliahan di pcr bagaimana?","perkuliahan di pcr gimana ya?"],
+  "Jawaban": "Sistem Perkuliahan di PCR sudah terjadwalkan setiap semester sesuai dengan kurikulum. Dan untuk Jam perkuliahan dimulai dari jam 7 sampai dengan 16.00",
+  "Label": "sistemkuliah"
+ },
+ {
+  "pert": ["apakah di pcr ada sistem kuliah malam?","di pcr ada kuliah malam?","ada tidak kuliah malam di pcr?","di pcr ada sistem kuliah ada tidak?","di pcr bisa kuliah malam saja?","kalau masuk pcr bisa ga kuliah malam?","bisa hanya kuliah malam saja tidak di pcr?","apakah di pcr bisa kuliah malam?"],
+  "Jawaban": "Di PCR tidak memiliki sistem kuliah malam",
+  "Label": "kuliahmalam"
+ },
+ {
+  "pert": ["apakah kuliah di pcr bisa sambil kerja?","di pcr bisa kuliah sambil kerja?","di pcr boleh tidak kuliah sambil kerja?"],
+  "Jawaban": "Bisa saja tetapi mahasiswa harus bisa mengatur waktunya\ndengan jam perkuliahan",
+  "Label": "kuliahsambilkerja"
+ },
+ {
+  "pert": ["kalau misalnya tidak lulus matakuliah, apakah\nlangsung turun tingkat?","apakah mahasiswa langsung turun tingkat jika tidak lulus di salah satu matakuliah?","jika ada matakuliah yang tidak lulus apakah langsung turun tingkat?","kalau ada matkul yang ga lulus langsung turun tingkat?","kalau ada matakuliah yang tidak lulus apakah mahasiswa langsung turun tingkat?","bagaimana kalau ada matakuliah yang tidak lulus?","kalau ada matakuliah yang tidak lulus bagaimana?"],
+  "Jawaban": "Jika tidak lulus matakuliah, masih bisa melakukan revisi \ntetapi jika tidak lulus revisi maka harus melakukan carry over dimana carry over merupakan sistem pembelajaran kembali yang harus dilakukan untuk dapat lulus dari matakuliah tersebut",
+  "Label": "tidaklulusmatkul"
+ },
+ {
+  "pert": ["Apakah perkuliahan di PCR full dari jam 7 sampai dengan 16.00?","di pcr kuliahnya dari pagi sampai sore full tidak?","di pcr katanya kuliah dari jam 7 sampai 16.00 apakah kuliahnya full?","di pcr kuliah dari pagi sampai sore apakah ada jeda atau full?","dari pagi sampai sore kuliah di pcr itu full atau ada jeda setiap matakuliah?","kuliah di pcr itu apakah padat dari pagi sampai sore?","di pcr apakah kuliahnya berlanjutan terus dari pagi sampai sore tanpa jeda?"],
+  "Jawaban": "Perkuliahan di PCR tidak selalu full dari jam 7 sampai 16.00\ntergantung dengan jadwal yang didapatkan. Jam 7 sampai\njam 16.00 hanya sebatas waktu kuliah mahasiswa dan jam\nkerja bagi dosen. Mahasiswa bisa saja mendapatkan jadwal \ndimana pada satu hari berkuliah dari jam 7 sampai 9 dan \ndilanjutkan lagi kuliahnya dari jam 1 sampai 5",
+  "Label": "jamperkuliahan"
+ },
+ {
+  "pert": ["untuk lulusan dari program studi yang ada di pcr,\nkemana saja arah kerjanya?","lulusan prodi di pcr kemana aja kerjanya?","lulusan dari pcr arah kerjanya kemana saja?","setelah lulus dari pcr kira kira arah kerja lulusannya kemana saja?","kerja dari lulusan masing masing prodi di pcr kemana aja setelah lulus?","habis lulus dari pcr lulusannya kemana saja kerjanya?"],
+  "Jawaban": "Untuk lulusan dari program studi yang ada di PCR arahnya ada yang ke bidang, \nperminyakan dan gas, teknologi informasi, telekomunikasi, automasi, manufakturing,\n animasi, ilmu politik, peralatan, Fuze Bomb AVU - ETMA, edukasi, bisnis dan administrasi \nmanajemen, elektrikal dan teknik elektronika, perbankan, fraktur dan stimulasi,  \npengiriman, teknik komunikasi, dan wiraswasta",
+  "Label": "lulusansetiapprodi"
+ },
+ {
+  "pert": ["bagaimana akreditasi setiap program studi di pcr?","akreditasi prodi di pcr gimana?","bagaimana status akreditasi setiap prodi di pcr?","di pcr akreditasinya bagus ga setiap prodinya?","setiap prodi yang ada di pcr akreditasinya gimana aja?","akreditasi di pcr apakah sudah A semua?","apakah akreditasi prodi di pcr sudah bagus?","di pcr akreditasi setiap prodinya bagaimana?"],
+  "Jawaban": "Pada program studi Akuntansi Perpajakan, Sistem Informasi, Teknik \nElektronika Komunikasi, Teknik Informatika, Teknologi Rekayasa \nKomputer, Teknologi Rekayasa Sistem Elektronik sudah A, \nTeknik Listrik, Teknik Mesin, dan Teknik Rekayasa Jaringan Telekomunikasi\nsudah B, dan pada program studi Teknik Rekayasa Mekatronika sudah Unggul",
+  "Label": "akreditasiprodi"
+ },
+ {
+  "pert": ["bagaimana model ospek yang ada di pcr?","bagaimana cara ospek di pcr dilaksanakan?","model ospek yang ada di pcr gimana?","gimana bentukan ospek yang ada di pcr?","sistem ospek yang ada di pcr gimana?","pola ospek yang ada di pcr gimana?","ospek di pcr itu gimana?","ospek di pcr itu bagaimana?"],
+  "Jawaban": "Di PCR namanya bukanlah ospek melainkan ISO, pada ISO \nmahasiswa diperkenalkan dengan seluruh lingkungan yang ada di PCR",
+  "Label": "ospek"
+ },
+ {
+  "pert": ["kalau misalnya anak saya lulus masuk ke pcr, \napakah wajib punya laptop terutama IT?","apakah di pcr wajib punya laptop terutama yang TI?","kalau misalnya saya lulus di pcr apakah saya wajib punya laptop?","apakah mahasiswa di pcr terutama jurusan IT wajib punya laptop?","apakah laptop sangat dibutuhkan di pcr sehingga saya harus membelinya?","mahasiswa baru di pcr wajib punya laptop tidak?","apakah saya harus menyediakan laptop ke anak saya jika lulus di pcr?"],
+  "Jawaban": "Tidak wajib punya laptop, karena mahasiswa bisa melakukan \npeminjaman ruangan laboratorium komputer untuk dapat\nmengerjakan tugas perkuliahannya",
+  "Label": "kepunyaanlaptop"
+ },
+ {
+  "pert": ["kemana saja lulusan dari setiap program studi?","lulusan dari setiap program studi kemana aja?","kemana aja lulusan dari setiap program studi yang ada di pcr?","di pcr lulusan dari setiap prodinya kemana aja?","setelah lulus dari pcr lulusannya pergi kemana saja?","lulusan dari setiap program studi yang ada di pcr kemana saja perginya?"],
+  "Jawaban": "Untuk lulusan dari setiap program studi, ada yang bekerja di United Arab Emirates, \nMalaysia, United States of America, Singapore, Japan, Taiwan, Saudi Arabia, Perancis, \nAustralia, dan United Kingdom",
+  "Label": "negaralulusan"
+ },
+ {
+  "pert": ["apa saja bidang kerja dari setiap lulusan dari setiap \nprogram studi?","bidang kerja dari lulusan setiap program studi apa aja?","lulusan dari setiap program studi kerjanya di bidang apa aja?","lulusan dari setiap prodi kerjanya di bidang apa aja?","setelah lulus dari pcr lulusan dari setiap prodinya kerjanya di bidang apa aja?","lulusan pcr kerjanya di bidang apa aja?","mahasiswa pcr yang sudah lulus kerjanya di bidang apa saja?"],
+  "Jawaban": "Untuk lulusan dari program studi yang ada di PCR arahnya ada yang ke bidang, \nperminyakan dan gas, teknologi informasi, telekomunikasi, automasi, manufakturing,\n animasi, ilmu politik, peralatan, Fuze Bomb AVU - ETMA, edukasi, bisnis dan administrasi \nmanajemen, elektrikal dan teknik elektronika, perbankan, fraktur dan stimulasi,  \npengiriman, teknik komunikasi, dan wiraswasta",
+  "Label": "bidangkerjalulusan"
+ },
+ {
+  "pert": ["apakah tugas rumah \/pr di pcr diberikan setiap hari?","di pcr setiap hari ada pr?","kuliah di pcr apakah dikasih pr setiap hari?","di pcr tugas rumahnya dikasih setiap hari atau tidak?","di pcr prnya dikasih setiap hari ya?","di pcr apakah tugas yang diberikan setiap hari selama kuliah?","mahasiswa dikasih pr terus menerus ga setiap harinya?","setiap harinya mahasiswanya dikasih pr kah?"],
+  "Jawaban": "Tugas biasanya diberikan setelah selesai mengerjakan modul yang diberikan,\ntetapi tugas bisa saja tidak diberikan setiap hari tergantung dari dosen yang\nmengajar",
+  "Label": "tugas"
+ },
+ {
+  "pert": ["di pcr boleh merokok ga?","di pcr boleh merokok ga?","apakah pcr membolehkan merokok?","saya boleh merokok di pcr?","apakah kegiatan merokok di izinkan pcr?","boleh merokok tidak di area pcr?"],
+  "Jawaban": "Di PCR tidak memperbolehkan untuk merokok karena PCR merupakan kampus lingkungan bebas rokok",
+  "Label": "merokok"
+ },
+ {
+  "pert": ["apakah pcr ada sistem krs?","di pcr ada sistem krs?","di pcr sistem matakuliahnya krs ga?","di pcr untuk pilih matakuliahnya pakai sistem krs ga?","di pcr ada krs?","ada sistem pemilihan matakuliah ga di pcr?","bisa pilih matakuliah ga di pcr?","di pcr apakah bisa dipilih matkulnya?","di pcr bisa pilih matkulnya sendiri?","mahasiswa bisa ga pilih matakuliah yang diinginkan?","bisa ga matakuliah di pcr dipilih oleh mahasiswanya ?","apakah mahasiswa bisa memilih matakuliah mana yang ingin diikuti","saya bisa pilih matakuliah yang saya inginkan tidak?","saya bisa ga pilih matakuliah sendiri?"],
+  "Jawaban": "Tidak ada",
+  "Label": "krs"
+ },
+ {
+  "pert": ["apakah di pcr bisa memilih matakuliahnya sendiri?"],
+  "Jawaban": "Tidak bisa",
+  "Label": "memilihmatkul"
+ },
+ {
+  "pert": ["apakah di pcr ada semester cepat?","di pcr ada ga semester cepat?","saya bisa ambil semester cepat ga di pcr?","apakah saya bisa a,bil semester cepat di pcr?","apakah mahasiswa bisa memilih program semester cepat?","di pcr ada tidak program semester cepat?"],
+  "Jawaban": "Tidak ada",
+  "Label": "semestercepat"
+ },
+ {
+  "pert": ["apakah lab yang ada di pcr bisa digunakan diluar\njam perkuliahan?","lab di pcr boleh di pinjam diluar jadwal kuliah?","lab di pcr boleh di pinjam?","apakah lab di pcr boleh di pinjam?","saya boleh pinjam lab pcr tidak di luar jadwal kuliah?","selain praktik kuliah saya boleh ga pinjam lab?","lab boleh di pinjam tidak?","selain jam kuliah boleh pinjam lab ga?"],
+  "Jawaban": "Bisa dengan mengikuti prosedur peminjaman",
+  "Label": "lab"
+ },
+ {
+  "pert": ["apakah hari sabtu ada perkuliahan di pcr?","di pcr sabtu kuliah ga?","ada kuliah ga di hari sabtu?","di pcr ada perkulihan tidak di pcr?","ada pekuliahan berlangsung ga di pcr?","apakah di pcr hari sabtu juga kuliah?"],
+  "Jawaban": "tidak ada",
+  "Label": "kuliahsabtu"
+ },
+ {
+  "pert": ["apakah jurusan ips bisa daftar di pcr?","jurusan ips bisa daftar ke pcr ga?","calon mahasiswa jurusan IPS bisa daftar ke pcr tidak?","saya jurusan ips bisa tidak daftar ke pcr?","dapatkah saya yang jurusannya ips mendaftar ke pcr?","calon mahasiswa yang berjurusan ips bisa daftar ke pcr ga?","apakah calon mahasiswa jurusan ips bisa daftar ke pcr?",""],
+  "Jawaban": "bisa",
+  "Label": "jurusanips"
+ },
+ {
+  "pert": ["apa saja jurusan yang cocok untuk calon mahasiswa ips?","Jurusan apa yang cocok sama calon mahasiswa jurusan ips?","jurusan ips cocoknya sama jurusan apa di pcr?","di pcr jurusan yang cocok sama calon mahasiswa jurusan ips apa?","saya berjurusan ips, cocoknya sama jurusan apa di pcr?","jurusan ips bagusnya ambil jurusan apa di pcr?"],
+  "Jawaban": "sistem informasi dan akuntansi perpajakan",
+  "Label": "cocokuntukips"
+ },
+ {
+  "pert": ["apakah jurusan ips bisa daftar ke program studi TI, \nmesin, SI, dan jurusan teknik lainnya?","jurusan ips bisa daftar ke program studi jurusan teknik ga?","apakah jurusan ips bisa daftar ke program studi teknik?","saya yang berjurusan ips bisa ga daftar ke program studi teknik?","di pcr bisa ga daftar ke prodi teknik jika jurusannya ips?","kalau jurusan saya ips bisa tidak saya daftar ke prodi teknik?"],
+  "Jawaban": "Untuk Jurusan IPS lebih ditujukan pada sistem informasi atau akuntansi \nperpajakan",
+  "Label": "ipsketeknik"
+ },
+ {
+  "pert": ["Berapa tahun kelulusan paling lama yang bisa masuk ke \npcr?","berapa lulusan paling lama yang bisa masuk ke pcr?","lulusan terlama dari SMA/sederajat paling lama berapa untuk bisa daftar ke pcr?","per dapat menerima lulusan terlama berapa lama untuk dapat mendaftar?","untuk dapat mendaftar ke pcr berapa lama lulusan terlama yang bisa mendaftar?","tahun lulusan terlama berapa lama yang bisa daftar ke pcr?"],
+  "Jawaban": "Tahun kelulusan paling lama adalah 2 tahun setelah lulus dari SMA\/SMK\/\nSederajat",
+  "Label": "tahunlamalulus"
+ },
+ {
+  "pert": ["Berapa kriteria nilai rapor untuk dapat mendaftar ke pcr?","berapa rata rata nilai rapor untuk bisa daftar ke pcr?","nilai rapor minimal berapa untuk bisa daftar ke pcr?","untuk daftar ke pcr berapa kriteria nilai rapor yang diperlukan?","untuk dapat mendaftar ke pcr berapa rata rata minimal nilai rapor?","nilai rapor paling kecil berapa untuk bisa daftar ke pcr?","untuk bisa daftar ke pcr berapa minimal nilai rapor yang diperlukan?"],
+  "Jawaban": "Pada Jalur masuk PSUD minimal rata rata rapor 75 sedangkan untuk Jalur \nmasuk beasiswa minimal 80",
+  "Label": "kriterianilai"
+ },
+ {
+  "pert": ["apa syarat pendaftaran jalur PSUD?","syarat daftar PSUD apa?","apa syarat untuk daftar jalur psud?","jalur psud syarat daftarnya apa ya?","apa saja syarat dari pendaftaran jalur psud?","kualifikasi untuk dapat daftar jalur psud apa?","apa saja kualifikasi untuk dapat daftar jalur psud?","pendaftaran jalur psud syaratnya apa aja?"],
+  "Jawaban": "Syarat pendaftaran PSUD adalah mempersiapkan Blangko nilai, foto\/file scan \nrapor semester 1 sampai 4, Scan sertifikat prestasi (jika ada)",
+  "Label": "syaratpsud"
+ },
+ {
+  "pert": ["apa syarat pendaftaran jalur umpcr?","syarat daftar umpcr apa?","apa syarat untuk daftar jalur umpcr?","jalur umpcr syarat daftarnya apa ya?","apa saja syarat dari pendaftaran jalur umpcr?","kualifikasi untuk dapat daftar jalur umpcr apa?","apa saja kualifikasi untuk dapat daftar jalur umpcr?","pendaftaran jalur umpcr syaratnya apa aja?"],
+  "Jawaban": "Syarat Jalur UMPCR adalah melakukan pembayaran biaya pendaftaran \nsebesar Rp. 250.000",
+  "Label": "syaratumpcr"
+ },
+ {
+  "pert": ["apa syarat pendaftaran jalur mandiri?","syarat daftar mandiri apa?.","apa syarat untuk daftar jalur mandiri?","jalur mandiri syarat daftarnya apa ya?","apa saja syarat dari pendaftaran jalur mandiri?","kualifikasi untuk dapat daftar jalur mandiri apa?","apa saja kualifikasi untuk dapat daftar jalur mandiri?","pendaftaran jalur mandiri syaratnya apa aja?"],
+  "Jawaban": "Syarat Jalur Mandiri adalah melakukan pembayaran biaya pendaftaran \nsebesar Rp. 250.000",
+  "Label": "syaratmandiri"
+ },
+ {
+  "pert": ["berapa lama masa kuliah di pcr?","kuliah di pcr berapa lama?","lama masa kuliah di pcr berapa lama?","di pcr berapa tahun kuliahnya?","masa perkuliahan di pcr berapa lama?","berapa lama bakal saya berkuliah di pcr?"],
+  "Jawaban": "Lama kuliah di PCR adalah 4 tahun \/ 8 Semester",
+  "Label": "lamakuliah"
+ },
+ {
+  "pert": ["apakah ada jurusan fakultas ekonomi?","di pcr ada jurusan ekonomi?","ada ga jurusan ekonomi di pcr?"],
+  "Jawaban": "Ada , Administrasi Manajemen",
+  "Label": "fakultasekonomi"
+ },
+ {
+  "pert": ["Berapa tahun paling lama untuk lulus dari pcr?","paling lama berapa lama untuk lulus dari pcr?","paling lama berapa lama kuliah di pcr?","kuliah di pcr berapa lama?","kuliah di pcr paling lama berapa lama?","di pcr masa perkuliahannya paling lama berapa lama?"],
+  "Jawaban": "14 Semester \/7 Tahun",
+  "Label": "tahunterlamalulus"
+ },
+ {
+  "pert": ["apakah baju yang dikenakan untuk perkuliahan bebas?","baju yang di pakai untuk kuliah apakah bebas?","untuk perkuliahan di pcr baju yang di pakai bebas ga?","selama perkuliahan di pcr apakah baju yang dikenakan boleh bebas?","baju yang di pakai untuk perkuliahan boleh bebas ga?","boleh ga di pcr pakai baju bebas?","apakah di pcr boleh pakaian bebas?"],
+  "Jawaban": "Bebas dengan sesuai aturan",
+  "Label": "baju"
+ },
+ {
+  "pert": ["apakah boleh pakai sendal di pcr?","di pcr boleh pakai sendal?","boleh ga pakai sendal di pcr?","saat kuliah apakah boleh pakai sendal?","pakai sendal boleh ga di"],
+  "Jawaban": "Tidak boleh",
+  "Label": "sendal"
+ },
+ {
+  "pert": ["apakah gaya rambut bebas di pcr?","gaya rambut boleh bebas tidak di pcr?","di pcr boleh tidak bebas untuk gaya rambutnya?","gaya rambut saat kuliah boleh bebas tidak?"],
+  "Jawaban": "Tidak Bebas",
+  "Label": "gayarambut"
+ },
+ {
+  "pert": ["apa bedanya SI sama TI?","di pcr ada tempat parkir motor tidak?","di pcr ada tempat parkir mobil tidak?","ada tempat parkir tidak di pcr?","di pcr ada tempat parkir ga?"],
+  "Jawaban": "Pada Program Studi Sistem Informasi ini, mahasiswa akan menguasai program aplikasi \nbisnis, pemanfaatan media informasi dalam bentuk sistem informasi , data warehouse, \nmanajemen yang dibutuhkan perusahaan (Enterprise Resource Planning, \nCustomer Relationship Management, dan Supply Chain Management. Sedangkan pada \nprogram studi TI lebih ke menguasai pengembangan perangkat \nlunak berbasis desktop, web, dan mobile, Serta teknik atau metode kecerdasan buatan.",
+  "Label": "bedasiti"
+ },
+ {
+  "pert": ["apakah ada tempat parkir di pcr?","apa beda si sama ti?","ti apa bedanya sama si?","si bedanya apa sama ti?","apa perbedaan dari prodi ti dan prodi si?","apa bedanya prodi ti sama si?"],
+  "Jawaban": "Ada",
+  "Label": "tempatparkir"
+ },
+ {
+  "pert": ["apakah di pcr ada asrama?","di pcr ada asrama?","ada asrama ga di pcr?","di pcr ada sediakan asrama tidak?","apakah di pcr tersedia asrama?"],
+  "Jawaban": "Tidak ada",
+  "Label": "asrama"
+ },
+ {
+  "pert": ["apa keluaran dari prodi TI?","apa aja kompetensi dari prodi ti?","prodi ti menghasilkan mahasiswa berkompetensi apa?","apa aja kompetensi mahasiswa prodi ti?","kompetensi mahasiswa prodi ti apa aja?","luaran mahasiswa prodi ti jadi apa aja?","apa saja keluaran dari prodi ti?"],
+  "Jawaban": "Keluaran dari program studi TI ada Software Developer, Multimedia Developer, dan \nIT Infrastructure Engineer",
+  "Label": "keluaranti"
+ },
+ {
+  "pert": ["lulusan dari Teknik informatika kerjanya jadi apa?","mahasiswa lulusan teknik informatika kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik informatika?","lulusan ti kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi ti apa aja?","apa saja kerjaan dari lulusan ti?","mahasiswa lulusan ti apa saja kerjanya?"],
+  "Jawaban": "Untuk lulusan dari Teknik Informatika kerjanya antara menjadi Software Developer, \nMultimedia Developer, dan IT Infrastruktur Engineer. Tidak menutup kemungkinan juga \nbagi lulusan untuk dapat mengambil pekerjaan diluar profesi tersebut.",
+  "Label": "kerjalulusanti"
+ },
+ {
+  "pert": ["lulusan dari teknik rekayasa komputer kerjanya jadi apa?","mahasiswa lulusan teknik rekayasa komputer kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik rekayasa komputer?","lulusan trk kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik rekayasa komputer apa aja?","apa saja kerjaan dari lulusan trk?","mahasiswa lulusan trk apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Rekayasa Komputer diproyeksikan berkarir sebagai \nIT Administrator, Devnet Engineer, Cyber Security Engineer, Cloud Engineer, System \nAdministrator, Programmer, Embedded System Engineer, Internet of Thing Developer, \nProject Engineer, dan Chief Technology Officer",
+  "Label": "kerjalulusantrk"
+ },
+ {
+  "pert": ["lulusan dari teknik listrik kerjanya jadi apa?","mahasiswa lulusan teknik listrik kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik listrik?","lulusan teknik listrik kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik listrik apa aja?","apa saja kerjaan dari lulusan teknik listrik?","mahasiswa lulusan teknik listrik apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Listrik diproyeksikan berkarir sebagai perancang \nmaupun inspektor sistem instalasi dan otomasi listrik, manager kelistrikan bangunan\/\npabrik, serta kontraktor instalasi listrik",
+  "Label": "kerjalulusantl"
+ },
+ {
+  "pert": ["lulusan dari teknik mesin kerjanya jadi apa?","mahasiswa lulusan teknik mesin kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik mesin?","lulusan teknik mesin kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik mesin apa aja?","apa saja kerjaan dari lulusan teknik mesin?","apa saja kerjaan dari lulusan teknik mesin?","mahasiswa lulusan teknik mesin apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Mesin diproyeksikan berkarir sebagai Drafter, Supervisor Proses \nProduksi, Supervisor Manajemen Perawatan, Supervisor Quality Control, Research & \nDevelopment (R&D) Industri Manufaktur, Supervisor Pertambangan maupun energi, \nOil and Gas Engineer, Welding Supervisor, Instruktur Laboratorium",
+  "Label": "kerjalulusantm"
+ },
+ {
+  "pert": ["lulusan dari teknik rekayasa jaringan telekomunikasi  kerjanya jadi apa?","mahasiswa lulusan teknik rekayasa jaringan telekomunikasi kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik rekayasa jaringan telekomunikasi?","lulusan teknik rekayasa jaringan telekomunikasi kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik rekayasa jaringan telekomunikasi apa aja?","apa saja kerjaan dari lulusan teknik rekayasa jaringan telekomunikasi?","mahasiswa lulusan teknik rekayasa jaringan telekomunikasi apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Rekayasa Jaringan telekomunikasi diproeksikan berkarir sebagai \nNetwrok Designer, System Administrator, Network Security Engineer, Internet Traffic \nEngineer, IoT Developer, RF Engineer, Cloud Computing Developer, Instruktur, Supervisor \ndi berbagai insudtri",
+  "Label": "kerjalulusantrjt"
+ },
+ {
+  "pert": ["lulusan dari teknik rekayasa komputer bekerja di bidang apa saja?","mahasiswa lulusan teknik rekayasa komputer kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik rekayasa komputer?","lulusan teknik rekayasa komputer kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik rekayasa komputer apa aja?","apa saja kerjaan dari lulusan teknik rekayasa komputer?","mahasiswa lulusan teknik rekayasa komputer apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Rekayasa Komputer bekerja pada bidang pekerjaan Startup teknologi \ninformasi, IT Industry, Internet service provider, Teknopreneur, BUMN, Pemerintahan \ndan Aparatur Sipil Negara, Tenaga Pendidik",
+  "Label": "bidangkerjatrk"
+ },
+ {
+  "pert": ["lulusan dari teknik rekayasa mekatronika kerjanya jadi apa?","mahasiswa lulusan teknik rekayasa mekatronika kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik rekayasa mekatronika?","lulusan teknik rekayasa mekatronika kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik rekayasa mekatronika apa aja?","apa saja kerjaan dari lulusan teknik rekayasa mekatronika?","mahasiswa lulusan teknik rekayasa mekatronika apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Rekayasa Mekatronika diproyeksikan berkarir sebagai Mechatronics \nEngineer, Automation Engineer, Automation Technician, Manufacturing Engineer, Electro and Mechanical Drafter, Project Engineer, Project manager, Supervisor, Instructor\/Educator Technopreneur",
+  "Label": "kerjalulusantrm"
+ },
+ {
+  "pert": ["lulusan dari teknik rekayasa sistem elektronik kerjanya jadi apa?","mahasiswa lulusan teknik rekayasa sistem elektronik kerjanya jadi apa?","apa saja kerjaan dari lulusan teknik rekayasa sistem elektronik?","lulusan teknik rekayasa sistem elektronik kerjaannya jadi apa saja?","kerja mahasiswa yang lulus dari prodi teknik rekayasa sistem elektronik apa aja?","apa saja kerjaan dari lulusan teknik rekayasa sistem elektronik?","mahasiswa lulusan teknik rekayasa sistem elektronik apa saja kerjanya?"],
+  "Jawaban": "Lulusan dari Teknik Rekayasa Elektronik diproyeksikan berkarir sebagai Supervisor \nInstrumentasi, Supervisor Kontrol Proses, Desainer Sistem Elektronika, Engineer Instrumentasi Engineer Kontrol Proses",
+  "Label": "kerjalulusantrse"
+ },
+ {
+  "pert": ["kalau masa pendaftaran mahasiswa baru sudah selesai, \napakah masih bisa mendaftar?","apakah masih bisa mendaftar jika masa pendaftaran sudah berakhir?","kalau masa pendaftaran sudah selesai apakah masih bisa mendaftar ke pcr?","saya ingin mendaftar ke pcr tapi masa pendaftaran sudah ditutup apakah masih bisa?","apakah masih bisa untuk mendaftar ke pcr kalau masa pendaftarannya sudah tutup?"],
+  "Jawaban": "Tidak bisa karena sudah mengikuti jadwal yang sudah ditentukan",
+  "Label": "pmbsudahselesai"
+ },
+ {
+  "pert": ["apakah ada program kkn di pcr?","di pcr ada kkn ga?","ada kkn ga di pcr?","di pcr apakah ada program kkn?","di pcr apakah wajib kkn?","ada program kkn ga di pcr?"],
+  "Jawaban": "Tidak ada ",
+  "Label": "kkn"
+ },
+ {
+  "pert": ["apakah ada program magang di pcr?","di pcr ada magang ga?","ada magang ga di pcr?","di pcr apakah ada program magang?","di pcr apakah wajib magang?","ada program magang ga di pcr?"],
+  "Jawaban": "Di PCR yang ada hanya program Kerja Praktik",
+  "Label": "magang"
+ },
+ {
+  "pert": ["apakah ada kantin di pcr?","di pcr ada kantin tidak?","di pcr ada kantin ga?","ada kantin ga di pcr?"],
+  "Jawaban": "Ada",
+  "Label": "kantin"
+ },
+ {
+  "pert": ["apakah di pcr ada wifi gratis?","Di pcr ada wifi ga?","ada wifi ga di pcr?","di pcr menyediakan wifi gratis ga?","apakah ada wifi gratis di pcr?"],
+  "Jawaban": "Ada",
+  "Label": "wifi"
+ },
+ {
+  "pert": ["apakah di pcr kegiatannya hanya kuliah saja?","di pcr kegiatannya apakah Cuma kuliah aja?","sebagai mahasiswa di pcr kerjanya apakah Cuma kuliah?","di pcr Cuma kuliah aja atau ada kegiatan lain?","apakah di pcr ada kegiatan lain selain kuliah?","kira kira mahasiswa Cuma kuliah aja atau tidak di pcr?"],
+  "Jawaban": "Tidak, di PCR selain dari berkuliah mahasiswa juga bisa mengikuti kegiatan organisasi \natau bisa juga mengikuti kegiatan seperti lomba, ataupun penelitian bersama dosen",
+  "Label": "kegiatanpcr"
+ },
+ {
+  "pert": ["apakah ada sertifikasi yang disediakan pcr?","di pcr apakah ada sertifikasi?","ada sertifikasih ga di pcr?","ada sertifikasi tidak di pcr?","di pcr dikasih kesempatan untuk sertifikasi kan?","pcr menyediakan sertifikasi ga?","apakah pcr ada sediakan sertifikasi?"],
+  "Jawaban": "Ada",
+  "Label": "sertifikasi"
+ },
+ {
+  "pert": ["Biaya kuliah di pcr termasuk mahal atau tidak","kuliah di pcr termasuk mahal atau tidak?","di pcr biaya kuliahnya mahal ga?","kalau kuliah di pcr biayanya mahal ga?","biaya untuk kuliah di pcr mahal ga?"],
+  "Jawaban": "Biaya kuliah di PCR hanya sebatas Rp. 6.500.000 selama satu semester tanpa ada biaya\ntambahan. Dimana biaya di PCR tidak tergantung dengan SKS yang diambil, tetapi di \nPCR sistemnya sudah paket jadi untuk satu semester SKS matakuliah sudah ditentukan \noleh PCR",
+  "Label": "biayakuliahmahal"
+ }
+]
+}
