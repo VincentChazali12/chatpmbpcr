@@ -1,0 +1,15 @@
+{
+    "name": "vince/chatbot3",
+    "autoload": {
+        "psr-4": {
+            "Vince\\Chatbot3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VincentChazali",
+            "email": "vincent19ti@mahasiswa.pcr.ac.id"
+        }
+    ],
+    "require": {}
+}
